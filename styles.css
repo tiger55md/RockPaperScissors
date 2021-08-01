@@ -39,14 +39,14 @@ p{
 
 .player, .computer{
     margin-top: 20px;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     background-color: black;
     border-radius: 20px;
 }
 
 .player{
-    margin-left: 44%;
+    margin-left: 45.5%;
 }
 
 .computer{
