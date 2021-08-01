@@ -31,11 +31,9 @@ p{
 
 .box{
     position: absolute;
-    margin-left: 400px;
-    margin-right: 400px;
     background-color: orange;
-    height: 1000px;
-    width: 1000px;
+    height: 100%;
+    width: 100%;
     border-radius: 20px;
 }
 
@@ -48,7 +46,7 @@ p{
 }
 
 .player{
-    margin-left: 390px;
+    margin-left: 44%;
 }
 
 .computer{
